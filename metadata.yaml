@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6234
     wikipedia: http://fr.wikipedia.org/wiki/Edouard_Corbière
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15885#Les-pilotes-de-l-Iroise
 gutenberg_bookshelf:
 - FR Littérature
 - Pirates, Buccaneers, Corsairs, etc.
